@@ -7,6 +7,8 @@
 Karstolution is a Speleothem δ18O Model Integrating Karst Hydrological and In-Cave Fractionation Processes.  
 It couples KarstFor, a lumped parameter karst hydrology model, (Bradley et al., 2010) with ISOLTUION, a model of the in-cave calcite system (Deininger et al., 2012).
 
+Read more about Karstolution's structure and application [in this preprint on EarthArXiv](https://doi.org/10.31223/osf.io/j4kn6).
+
 Karstolution is implemented as a python module.  Examples are provided for using it from a [python script](./example) or from [Jupyter notebooks](./notebooks).
 
 # Conceptual Figure
